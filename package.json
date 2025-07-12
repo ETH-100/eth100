@@ -1,0 +1,31 @@
+{
+  "name": "eth100",
+  "version": "1.0.0",
+  "description": "ETH100 · Ethereum Knowledge Coordination Center",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs",
+    "lint": "eslint . --ext .ts,.js,.vue --fix",
+    "format": "prettier --write ."
+  },
+  "dependencies": {
+    "markdown-it-mathjax3": "^4.3.2",
+    "vitepress-plugin-group-icons": "^1.6.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.30",
+    "vitepress": "^1.6.3",
+    "shiki": "^1.0.0",
+    "eslint": "^8.56.0",
+    "prettier": "^3.2.5",
+    "eslint-plugin-vue": "^9.20.0",
+    "eslint-config-prettier": "^9.1.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "packageManager": "pnpm@8.15.1",
+  "preinstall": "npx only-allow pnpm"
+}
