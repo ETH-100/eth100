@@ -17,7 +17,7 @@ title: 捐赠
 
 ### 捐赠方式
 
-![donate qrcode](../qrcode.png){ width=300 }
+![donate qrcode](/qrcode.png){ width=300 }
 
 **0x35F96C7f554A855025b5C261BD2D8b6Db6418B79**
 
