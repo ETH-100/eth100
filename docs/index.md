@@ -13,7 +13,7 @@ hero:
       disabled: false
       featured: true
 
-    - name: ZKBook
+    - name: AI3
       image: /img/zkbook-cover.png
       button: Coming Soon
       disabled: true
