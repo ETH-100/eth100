@@ -15,7 +15,7 @@ export const zh = defineConfig({
 
     footer: {
       message: '基于 MIT 许可发布',
-      copyright: `版权所有 © 2025-${new Date().getFullYear()} AngryETH`
+      copyright: `版权所有 © 2025-${new Date().getFullYear()} ETH100`
     },
 
     docFooter: {

@@ -85,8 +85,8 @@ export const shared = defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/Angry-ETH' },
-      { icon: 'twitter', link: 'https://x.com/angryeth_xyz' }
+      { icon: 'github', link: 'https://github.com/ETH-100' },
+      { icon: 'twitter', link: 'https://x.com/ETH100_wtf' }
     ],
   },
   vite: {

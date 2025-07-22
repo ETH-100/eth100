@@ -13,7 +13,7 @@ export const en = defineConfig({
 
     footer: {
       message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2019-present AngryETH'
+      copyright: 'Copyright © 2019-present ETH100'
     }
   }
 })
