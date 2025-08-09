@@ -18,7 +18,7 @@ We’ve already completed most of the DASBook and are moving into the next phase
 
 **0x35F96C7f554A855025b5C261BD2D8b6Db6418B79**
 
-- [Ethereum](https://etherscan.io/address/0x41626BA92c0C2a1aD38fC83920300434082B1870)
-- [Arbitrum One](https://arbiscan.io/address/0x41626BA92c0C2a1aD38fC83920300434082B1870)
-- [OP Mainnet](https://optimistic.etherscan.io/address/0x41626BA92c0C2a1aD38fC83920300434082B1870)
-- [ZKsync Lite](https://zkscan.io/explorer/accounts/0x41626BA92c0C2a1aD38fC83920300434082B1870)
+- [Ethereum](https://etherscan.io/address/0x35F96C7f554A855025b5C261BD2D8b6Db6418B79)
+- [Arbitrum One](https://arbiscan.io/address/0x35F96C7f554A855025b5C261BD2D8b6Db6418B79)
+- [OP Mainnet](https://optimistic.etherscan.io/address/0x35F96C7f554A855025b5C261BD2D8b6Db6418B79)
+- [ZKsync Lite](https://zkscan.io/explorer/accounts/0x35F96C7f554A855025b5C261BD2D8b6Db6418B79)

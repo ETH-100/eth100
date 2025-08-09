@@ -7,7 +7,7 @@ hero:
   tagline: Together, Let’s Witness Ethereum Scaling 100×
   books:
     - name: DASBook
-      link: /dasbook/
+      link: https://dasbook.eth100.wtf/
       image: /img/dasbook-cover.png
       button: Get Started
       disabled: false

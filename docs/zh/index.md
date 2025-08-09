@@ -7,7 +7,7 @@ hero:
   tagline: 一起见证扩容 100 倍的以太坊
   books:
     - name: DASBook
-      link: /dasbook/
+      link: https://dasbook.eth100.wtf/
       image: /img/dasbook-cover.png
       button: 立即进入
       disabled: false
